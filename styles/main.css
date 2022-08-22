@@ -124,6 +124,9 @@ img:hover {
 #header .container {
   position: relative;
 }
+.header-burger{
+  display: none; 
+}
 .header-wrap {
   display: flex;
   justify-content: space-between;
